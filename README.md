@@ -18,7 +18,7 @@ The challenge:
 - Store dataset covering sales performance across regions, products, and time periods
 
 ## Tools & Technologies
-- **Tableau Desktop / Tableau Public**
+- **Tableau**
 
 ## Data Preparation / Methodology
 Data was clean and required no pre-processing prior to import into Tableau. All calculations and aggregations were handled directly within Tableau using calculated fields and navigation actions.
@@ -38,10 +38,13 @@ Data was clean and required no pre-processing prior to import into Tableau. All 
 ```
 
 ## Visualizations Included
-- **Map — Sales Across States:** Shows how total sales are distributed across the 49 states, making it easy to spot the strongest and weakest regions at a glance
-- **Symbol Map — Sales Across Cities:** Breaks state-level sales down further to the city level, with bubble sizes reflecting sales volume
-- **Pareto Chart — Sub-Category Sales:** Combines a bar chart and cumulative line chart to show which sub-categories drive the most sales and how many sub-categories account for the majority of revenue
-- **Continuous Line Chart — Sales Trend & Forecast:** Tracks how sales have moved over time and projects future performance based on historical patterns
+- 📌 **Map — Sales Across States:** Shows how total sales are distributed across the 49 states, making it easy to spot the strongest and weakest regions at a glance
+- 📌 **Symbol Map — Sales Across Cities:** Breaks state-level sales down further to the city level, with bubble sizes reflecting sales volume
+- 📌 **Pareto Chart — Sub-Category Sales:** Combines a bar chart and cumulative line chart to show which sub-categories drive the most sales and how many sub-categories account for the majority of revenue
+- 📌 **Continuous Line Chart — Sales Trend & Forecast:** Tracks how sales have moved over time and projects future performance based on historical patterns
+
+ [**Dashboard Overview**]
+ <img width="1366" height="768" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/7eb6f87e-8b70-40c5-807b-f279d4d5df6e" />
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/RegionalSalesPerformanceMarketTrendDashboard/PrimaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
